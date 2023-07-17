@@ -1,4 +1,3 @@
-
 # FACE MASK DETECTION
 To build a system for detectiong if an individual is wearing a mask in a give image.
 
@@ -44,4 +43,15 @@ The Mask Wearing dataset is an object detection dataset of individuals wearing v
 
 ## TESTING LOW QUALITY VIDEO DEMO
 https://github.com/PawarMukesh/Face-Mask-Detection/assets/101791322/10381404-5456-4517-9bfc-c1d25709fbf3
+
+## CHALLENGES FACED:
+*	challenge faced in bounding boxes creation
+*	Assign the same no for all classes
+*	Made mistake in yolov5 folder structure
+*	Take lots of time to create bounding boxes
+
+# WHAT WE LEARN:
+*	Understand the YoloV5 folder structure as well as learn label-IMG tool.
+*	Learn Pytorch library.
+
 
