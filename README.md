@@ -50,7 +50,7 @@ https://github.com/PawarMukesh/Face-Mask-Detection/assets/101791322/10381404-545
 *	Made mistake in yolov5 folder structure
 *	Take lots of time to create bounding boxes
 
-# WHAT WE LEARN:
+## WHAT WE LEARN:
 *	Understand the YoloV5 folder structure as well as learn label-IMG tool.
 *	Learn Pytorch library.
 
